@@ -38,6 +38,6 @@ for k = 1:1:450
     error_2=error_1;
     error_1=error(k);
 end
-plot(time,rin,'r',time,yout,'b');
-xlabel('time(s)');
-ylabel('rin,yout');
+% plot(time,rin,'r',time,yout,'b');
+% xlabel('time(s)');
+% ylabel('rin,yout');
